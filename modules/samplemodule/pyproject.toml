@@ -1,0 +1,10 @@
+[build-system]
+requires = [
+    "setuptools>=42",
+    "wheel",
+    "scikit-build>=0.12",
+    "cmake>=3.22",
+    "ninja",
+    "panda3d",
+]
+build-backend = "setuptools.build_meta"

@@ -1,0 +1,6 @@
+setuptools
+wheel
+
+panda3d
+
+./modules/samplemodule
